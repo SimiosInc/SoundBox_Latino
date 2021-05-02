@@ -1,0 +1,8 @@
+package-as: SoundBox_Latino
+
+enable-nolib-creation: no
+wowi-archive-previous: no
+
+ignore:
+  - Readme.md
+  - _create.bat
